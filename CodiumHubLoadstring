@@ -1,0 +1,14 @@
+
+--[[
+YT: CoDeXHackPlayz
+Discord : https://discord.gg/d7GWv4XA62
+Web : https://kerberosrocks.weebly.com/
+Forums : https://kerberos.boards.net/
+
+-- Games Supported : Coins Hero Sim : https://www.roblox.com/games/5827078246/x1B-FNF-PETS-Coins-Hero-Simulator
+-- speedrun simulator : https://www.roblox.com/games/5293755937/Speed-Run-Simulator-OBBY?
+-- Strucid : https://www.roblox.com/discover/?keyword=strucid&session=0a543f9b-4d60-463a-95dc-b4e6d8b11285
+
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CoDeXHackPlayzYT/Roblox/main/CodiumHub"))()
