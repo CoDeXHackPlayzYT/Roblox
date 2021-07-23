@@ -1,0 +1,9 @@
+
+--[[
+YT: CoDeXHackPlayz
+Discord : https://discord.gg/d7GWv4XA62
+Web : https://kerberosrocks.weebly.com/
+Forums : https://kerberos.boards.net/
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CoDeXHackPlayzYT/Roblox/main/MedusaHub"))()
