@@ -1,0 +1,10 @@
+--YT: CoDeXHackPlayz
+--Discord : https://discord.gg/d7GWv4XA62
+--Web : https://kerberosrocks.weebly.com/
+--Forums : https://kerberos.boards.net/
+
+--Project Evo's Web : projectevo.xyz
+
+
+
+loadstring(game:HttpGet("https://projectevo.xyz/script/loader.lua"))()
