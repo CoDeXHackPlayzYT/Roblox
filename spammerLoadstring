@@ -1,0 +1,4 @@
+-- Spammer V1 By CoDeX
+-- Design is trash ik stop
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CoDeXHackPlayzYT/Roblox/main/Spammer"))()
